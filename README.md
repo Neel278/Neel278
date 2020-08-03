@@ -1,4 +1,4 @@
-### Hi there, I'm Neel - aka [Nt][website] 👋
+### Hi there, I'm Neel - aka "Nt" 👋
 
 ## I'm a Student, Developer, and Learner!
 - 🔭 I’m currently working on [Rangrezz-pro][website]!
@@ -10,8 +10,8 @@
 ### Connect with me:
 
 <img align="left" alt="Neel Thakkar" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-[<img align="left" alt="Neel Thakkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/278Neel]
-[<img align="left" alt="Neel Thakkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/neel-thakkar-1221a0194]
+<img align="left" alt="Neel Thakkar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Neel Thakkar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
 <br />
 
