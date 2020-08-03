@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Neel Thakkar" width="22px" src="https://github.com/Neel278/rangrezz-pro/blob/master/public/img/neel.png" />][https://github.com/neel278]
-[<img align="left" alt="Neel Thakkar" width="22px" src="https:://cdn.jsdelivr.ner/npm /simple-icons@v3/icons/twitter.svg" />][https://twitter.com/278neel]
-[<img align="left" alt="Neel Thakkar" width="22px" src="https:://cdn.jsdelivr.ner/npm /simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/neel-thakkar-1221a0194/]
+[<img align="left" alt="Neel Thakkar" width="22px" src="./neel.png" />][https://github.com/neel278]
+[<img align="left" alt="Neel Thakkar" width="22px" src="https://cdn.jsdelivr.ner/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/278neel]
+[<img align="left" alt="Neel Thakkar" width="22px" src="https://cdn.jsdelivr.ner/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/neel-thakkar-1221a0194/]
 
 <br />
 
