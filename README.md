@@ -1,10 +1,9 @@
 ### Hi there, I'm Neel - aka "Nt" 👋
 
 ## I'm a Student, Developer, and Learner!
-- 🔭 I’m currently working on [Lakshya 2021][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Start carrier as a professional backend engineer
+- 🥅 2022 Goals: Start carrier as a professional backend engineer
 - ⚡ Fun fact: I love to talk to my self and I am also a good listener! 
 
 ### Connect with me:
