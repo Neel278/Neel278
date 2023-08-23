@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and Learner!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Start carrier as a professional backend engineer
+- 🥅 2023 Goals: Improve my ability to learn and adapt to provide best support to my team.
 - ⚡ Fun fact: I love to talk to my self and I am also a good listener! 
 
 ### Connect with me:
